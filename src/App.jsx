@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import Login from './components/Login';
 import Apology from './components/Apology';
-import Proposal from './components/Proposal';
+import Proposal from './components/proposal';
 import './styles/background.css';
 
 function App() {
